@@ -1,10 +1,12 @@
 TEAM NAME: Rebase Rebels
 CHALLENGE 1: hidden/branch2
-CHALLENGE 2: 
-CHALLENGE 3: 
-CHALLENGE 4: 
-CHALLENGE 5: 
+CHALLENGE 2: 2
+CHALLENGE 3: THIRD DIGIT = 9
+CHALLENGE 4: FOURTH DIGIT = 3
+CHALLENGE 5: FIFTH DIGIT = 8
 CHALLENGE 6: 
-COORDINATES: 
-DECODED MESSAGE:
+COORDINATES: 22938
+DECODED MESSAGE: The truth is not in the coordinates
+The real TrustValut is your ability to work as a team
+Congrats! You've learned Git and collaboration!
 COMPLETION TIME:
